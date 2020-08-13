@@ -17,6 +17,8 @@ class MainController extends AbstractController
     {
         $someVar = true;
 
+        //Hello world!
+
         return $this->render('main/index.html.twig', [
             'controller_name' => 'MainController',
         ]);
