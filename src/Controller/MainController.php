@@ -17,6 +17,8 @@ class MainController extends AbstractController
     {
         $someVar = true;
 
+        // a new line from TICKET 66
+
         return $this->render('main/index.html.twig', [
             'controller_name' => 'MainController',
         ]);
