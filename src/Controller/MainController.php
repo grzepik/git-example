@@ -15,9 +15,12 @@ class MainController extends AbstractController
      */
     public function index()
     {
+
+        // dodajemy jeszcze trochę lini kodu
         $someVar = true;
 
         // a new line from TICKET 66
+        // dodajemy mnogie ilości nowego kodu
 
         //dodajemy tutaj jeszcze parę lini kodu
 
